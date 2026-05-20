@@ -212,8 +212,9 @@ This will open your browser automatically at `http://localhost:3000`.
 ---
 
 ## Screenshots
+<img width="1083" height="837" alt="home-page" src="https://github.com/user-attachments/assets/5e73c1a4-1878-46f5-8a45-89f57e66db36" />
+<img width="750" height="853" alt="generated-post" src="https://github.com/user-attachments/assets/127cf6b2-e8d0-4b18-ae68-386cc8661169" />
 
-> Add your screenshots here after running the app
 
 ---
 
